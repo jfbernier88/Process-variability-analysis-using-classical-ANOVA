@@ -1,2 +1,0 @@
-# SequenceMiner
-Analysis of sequences
